@@ -4,28 +4,27 @@ Faculdade de Computação - Sistemas de Informação
 GSI521 - Organização e Recuperação da Informação - Prof. Dr. Murillo G. Carneiro
 Phelipe Rodovalho Santos
 
-CODIGO FONTE - Estrutura de índice invertido baseado no modelo vetorial tf-idf
+CODIGO FONTE - Estrutura de busca com modelo vetorial tf-idf
 """
 
 # importando o pacote OS para usar funcionalidades que são dependentes do sistema operacional como navegar entre os diretorios e ler arquivos.
-from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 import pprint
+import math
 
 global tf
-tf = {}
 global df
-df = {}
+global tfidf
 global idf
 idf = {}
-global tfidf
 tfidf = {}
+df = {}
+tf = {}
 
 
 def main():
     # função que lê e preenche as variaveis globais que serão usadas por todo o código
     read_documents()
-
     # preparando os documentos retirando pontuações e stopwords
     document01 = prepare_doc('doc1_patinho_feio.txt')
     document02 = prepare_doc('doc2_joao_maria.txt')
@@ -41,104 +40,70 @@ def main():
     document05.sort()
 
     # criando indice invertido de cada um dos documentos e salvando no dicionario global dict_terms
-    criar_indice_invertido(document01, '1')
-    criar_indice_invertido(document02, '2')
-    criar_indice_invertido(document03, '3')
-    criar_indice_invertido(document04, '4')
-    criar_indice_invertido(document05, '5')
+    criar_indice_invertido(document01, 1)
+    criar_indice_invertido(document02, 2)
+    criar_indice_invertido(document03, 3)
+    criar_indice_invertido(document04, 4)
+    criar_indice_invertido(document05, 5)
 
-    peso_tf(document01, 1)
-    peso_tf(document02, 2)
-    peso_tf(document03, 3)
-    peso_tf(document04, 4)
-    peso_tf(document05, 5)
-
-    peso_df((document01 + document02 + document03 + document04 + document05))
-
-    peso_idf(df, tf, document01, 1)
-    peso_idf(df, tf, document02, 2)
-    peso_idf(df, tf, document03, 3)
-    peso_idf(df, tf, document04, 4)
-    peso_idf(df, tf, document05, 5)
-
-    corpus = [str(document01) + str(document02) + str(document03) + str(document04) + str(document05)]
-    # assign documents
-    d0 = 'geek1'
-    d1 = 'geek2'
-    d2 = 'geek3'
-    d3 = 'geek4'
-  
-    # merge documents into a single corpus
-    string = [d0, d1, d2, d3]
-    tfidf_m = TfidfVectorizer()
-
-    result = tfidf_m.fit_transform(corpus)
-
-   
+    peso_idf(document01, 1)
+    peso_idf(document02, 2)
+    peso_idf(document03, 3)
+    peso_idf(document04, 4)
+    peso_idf(document05, 5)
+    pprint.pprint(tfidf)
 
     pesquisa = str(input("Informe os termos da pesquisa:"))
     # convertendo para minusculo e separando os termos
     pesquisa = pesquisa.lower().split()
 
-    consulta_booleana(pesquisa)
+    consulta_modelo_vetorial(pesquisa)
 
 
-def peso_df(documents):
-
-    # df(t) = ocorrencia de t no documento
-    for t in documents:
-        df[t] = (documents.count(t))
-
-
-def peso_tf(document, n):
-
-    # tf(t,d) = quantidade de t in document / numero de palavras em d
+def peso_idf(document, num_d):
+    numTermsDocument = len(document)
     for t in document:
-        print((document.count(t)))
-        print(len(document))
-        tf[t, n] = (document.count(t) / len(document))
+        # numero de arquivos que termo aparece
+        numFilesAppear = len(set(dict_terms.get(t)))
+        idff = (1 + math.log(numFilesAppear) *
+                math.log(numTermsDocument/numFilesAppear))
+        tfidf[t] = {idff, num_d}
 
 
-def peso_idf(df, tf, document, d):
-
-    print(df)
-    print(tf)
-
-    for t in document:
-        print(tf[t, d])
-        print(df[t])
-        tfidf[t, d] = (tf[t, d] * df[t])
-
-
-def consulta_booleana(pesquisa):
+def consulta_modelo_vetorial(pesquisa):
     docs_pesquisa = []
     for p in pesquisa:  # percorrendo os termos de pesquisa fornecidos pelo usuário
         if dict_terms.get(p) is not None:  # se o termo existir
-            print(p + " : " + dict_terms.get(p))
-            aux = dict_terms.get(p)
-            aux = aux.split()
-            # inserindo o numero dos documentos de cada termo na lista
-            docs_pesquisa.append(aux)
+            #print(p + " : " + dict_terms.get(p))
+            for i in dict_terms.get(p):
+                # inserindo o numero dos documentos de cada termo na lista
+                if i not in docs_pesquisa:
+                    docs_pesquisa.append(i)
 
     if len(docs_pesquisa) == 0:  # caso nenhum termo for encontrado nos termos mapeados, encerra
         print("Nenhum termo de pesquisa valido foi encontrado")
         exit()
 
-    # convertendo a primeira posição para set
-    result_pesquisa = set(docs_pesquisa[0])
-    for dc in range(len(docs_pesquisa)):  # percorrendo o tamanho da lista
-        # convertendo a lista em set
-        docs_pesquisa[dc] = set(docs_pesquisa[dc])
-        result_pesquisa = result_pesquisa.intersection(
-            docs_pesquisa[dc])  # função de intersecção
+    sim = []
+    dict_pondera = {}
+    for p in pesquisa:
+        try:
+            sim.append(list(tfidf.get(p)))
+        except:
+            continue
 
-    result_pesquisa = sorted(result_pesquisa)
-    if(len(result_pesquisa) > 1):
+    for x, y in sim:
+        print("\n", x)
+        print("\n", y)
+        dict_pondera[x] = {y}
+
+    q = dict_pondera.keys()
+    if(len(dict_pondera) > 1):
         print("A pesquisa retornou os seguintes documentos: ",
-              result_pesquisa)
-    elif(len(result_pesquisa) == 1):
+              q)
+    elif(len(dict_pondera) == 1):
         print("A pesquisa retornou o seguinte documento: ",
-              result_pesquisa)
+              q)
     else:
         print("A pesquisa não retornou nenhum documento")
 
@@ -146,16 +111,16 @@ def consulta_booleana(pesquisa):
 def criar_indice_invertido(document, num):  # criando indice invertido
     for d in document:  # percorrendo o documento
         if d not in dict_terms:
-            dict_terms[d] = num
+            dict_terms.setdefault(d, [])
+            dict_terms[d].append(num)
         # se o termo não esta no dict e não é um termo repetido
         if d in dict_terms and num not in dict_terms[d]:
-            x = str(dict_terms[d])+" "
+            # x = str(dict_terms[d])+" "
             # atualiza a lista de documentos do termo
-            dict_terms.update({d: x+num})
+            # dict_terms.update({d: x+num})
+            dict_terms[d].append(num)
 
     pprint.pprint(dict_terms)
-    #with open('Indice_Invertido_termos_mapeados.txt', 'w') as file_name: #
-    #    pprint.pprint(dict_terms, file_name)..
 
 
 def prepare_doc(file):

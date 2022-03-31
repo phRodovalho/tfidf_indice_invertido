@@ -3,10 +3,6 @@
 
 Este repositório referente a organização e recuperação de informação, trabalho tem por objetivo construção de uma estrutura de índice invertido baseado no modelo vetorial tf-idf
 
-## Visão sobre o algoritmo implementado
-
-![Fluxograma](https://github.com/phRodovalho/busca_booleana_indice_invertido/blob/main/Fluxograma-algoritmo-busca-booleana.png)
-
 ## Download e execução
 
 ### Download do Python no ambiente Linux:
