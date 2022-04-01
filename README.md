@@ -5,7 +5,7 @@ Este repositório referente a organização e recuperação de informação, tra
 
 ## Visão sobre o algoritmo implementado
 
-![Fluxograma](https://github.com/phRodovalho/busca_booleana_indice_invertido/blob/main/Fluxograma-algoritmo-busca-booleana.png)
+![Fluxograma](https://github.com/phRodovalho/tfidf_indice_invertido/blob/main/Fluxograma-algoritmo-busca-vetorial.png)
 
 ## Download e execução
 
