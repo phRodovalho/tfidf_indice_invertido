@@ -1,0 +1,1859 @@
+_________ Ponderacao TF-IDF de todo corpus _________ 
+
+
+Palavra:  acolheu
+Valor:  [[1, 1.0]]
+
+Palavra:  aconchegante
+Valor:  [[1, 1.0]]
+
+Palavra:  aconteceu
+Valor:  [[1, 1.0]]
+
+Palavra:  aguardando
+Valor:  [[1, 1.0]]
+
+Palavra:  ah
+Valor:  [[1, 1.0]]
+
+Palavra:  ali
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  andar
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527]]
+
+Palavra:  andou
+Valor:  [[1, 1.0]]
+
+Palavra:  angustiado
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  animais
+Valor:  [[1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  ansiosa
+Valor:  [[1, 1.0]]
+
+Palavra:  aproximou
+Valor:  [[1, 1.0]]
+
+Palavra:  assim
+Valor:  [[1, 6.656411496418071], [1, 6.656411496418071], [1, 6.656411496418071], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [4, 7.068320371811663], [5, 6.675458321228254], [5, 6.675458321228254], [5, 6.675458321228254]]
+
+Palavra:  avistou
+Valor:  [[1, 1.0]]
+
+Palavra:  bastante
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  bem
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  bonito
+Valor:  [[1, 1.0]]
+
+Palavra:  botado
+Valor:  [[1, 1.0]]
+
+Palavra:  caminhando
+Valor:  [[1, 1.0]]
+
+Palavra:  cantinho
+Valor:  [[1, 1.0]]
+
+Palavra:  casa
+Valor:  [[1, 6.656411496418071], [1, 6.656411496418071], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [5, 6.675458321228254], [5, 6.675458321228254], [5, 6.675458321228254], [5, 6.675458321228254], [5, 6.675458321228254]]
+
+Palavra:  chegada
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  chegou
+Valor:  [[1, 1.0]]
+
+Palavra:  cinco
+Valor:  [[1, 1.0]]
+
+Palavra:  cisne
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  cisnes
+Valor:  [[1, 1.0]]
+
+Palavra:  começaram
+Valor:  [[1, 1.0]]
+
+Palavra:  conseguiu
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  conta
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  contente
+Valor:  [[1, 1.0]]
+
+Palavra:  crianças
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211]]
+
+Palavra:  deixandoa
+Valor:  [[1, 1.0]]
+
+Palavra:  deixandoo
+Valor:  [[1, 1.0]]
+
+Palavra:  deixava
+Valor:  [[1, 1.0]]
+
+Palavra:  demorou
+Valor:  [[1, 1.0]]
+
+Palavra:  descansar
+Valor:  [[1, 1.0]]
+
+Palavra:  descobriu
+Valor:  [[1, 5.422300833652588], [4, 5.703472383560009], [5, 5.435302314253307]]
+
+Palavra:  desde
+Valor:  [[1, 1.0]]
+
+Palavra:  deu
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  dia
+Valor:  [[1, 6.656411496418071], [2, 7.283230857601693], [2, 7.283230857601693], [3, 7.600287343970861], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [5, 6.675458321228254]]
+
+Palavra:  diferente
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  disseram
+Valor:  [[1, 1.0]]
+
+Palavra:  encantadas
+Valor:  [[1, 1.0]]
+
+Palavra:  encontrou
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  entendeu
+Valor:  [[1, 1.0]]
+
+Palavra:  entrar
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  entristecido
+Valor:  [[1, 1.0]]
+
+Palavra:  então
+Valor:  [[1, 6.181510315555368], [1, 6.181510315555368], [1, 6.181510315555368], [2, 6.721423125572017], [2, 6.721423125572017], [2, 6.721423125572017], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [4, 6.536309308944156], [4, 6.536309308944156], [4, 6.536309308944156]]
+
+Palavra:  exclamou
+Valor:  [[1, 1.0]]
+
+Palavra:  falando
+Valor:  [[1, 1.0]]
+
+Palavra:  feio
+Valor:  [[1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0]]
+
+Palavra:  ficando
+Valor:  [[1, 1.0]]
+
+Palavra:  ficaram
+Valor:  [[1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  ficou
+Valor:  [[1, 6.181510315555368], [1, 6.181510315555368], [1, 6.181510315555368], [2, 6.721423125572017], [3, 6.9945207181006515], [4, 6.536309308944156]]
+
+Palavra:  figura
+Valor:  [[1, 1.0]]
+
+Palavra:  filho
+Valor:  [[1, 5.422300833652588], [3, 6.066596334017831], [5, 5.435302314253307]]
+
+Palavra:  filhote
+Valor:  [[1, 1.0]]
+
+Palavra:  filhotinhos
+Valor:  [[1, 1.0]]
+
+Palavra:  finalmente
+Valor:  [[1, 1.0]]
+
+Palavra:  fora
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527]]
+
+Palavra:  forma
+Valor:  [[1, 6.181510315555368], [2, 6.721423125572017], [2, 6.721423125572017], [3, 6.9945207181006515], [3, 6.9945207181006515], [5, 6.19791635745832]]
+
+Palavra:  galinha
+Valor:  [[1, 1.0]]
+
+Palavra:  gato
+Valor:  [[1, 1.0]]
+
+Palavra:  gostasse
+Valor:  [[1, 1.0]]
+
+Palavra:  havia
+Valor:  [[1, 6.656411496418071], [1, 6.656411496418071], [1, 6.656411496418071], [2, 7.283230857601693], [3, 7.600287343970861], [3, 7.600287343970861], [4, 7.068320371811663], [5, 6.675458321228254], [5, 6.675458321228254]]
+
+Palavra:  homem
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  iguais
+Valor:  [[1, 1.0]]
+
+Palavra:  impaciente
+Valor:  [[1, 1.0]]
+
+Palavra:  inverno
+Valor:  [[1, 1.0]]
+
+Palavra:  irmãos
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211]]
+
+Palavra:  isolado
+Valor:  [[1, 1.0]]
+
+Palavra:  lado
+Valor:  [[1, 1.0]]
+
+Palavra:  lago
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  levou
+Valor:  [[1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  lindo
+Valor:  [[1, 1.0]]
+
+Palavra:  logo
+Valor:  [[1, 6.656411496418071], [2, 7.283230857601693], [3, 7.600287343970861], [4, 7.068320371811663], [5, 6.675458321228254]]
+
+Palavra:  lugar
+Valor:  [[1, 5.422300833652588], [2, 5.850171612420276], [5, 5.435302314253307]]
+
+Palavra:  mais
+Valor:  [[1, 6.656411496418071], [1, 6.656411496418071], [1, 6.656411496418071], [1, 6.656411496418071], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [2, 7.283230857601693], [3, 7.600287343970861], [3, 7.600287343970861], [3, 7.600287343970861], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [4, 7.068320371811663], [5, 6.675458321228254]]
+
+Palavra:  mamãe
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  manhã
+Valor:  [[1, 4.071208171695885], [2, 4.341164576704211], [2, 4.341164576704211]]
+
+Palavra:  maravilhoso
+Valor:  [[1, 1.0]]
+
+Palavra:  momento
+Valor:  [[1, 5.422300833652588], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  morava
+Valor:  [[1, 6.181510315555368], [3, 6.9945207181006515], [4, 6.536309308944156], [5, 6.19791635745832]]
+
+Palavra:  moravam
+Valor:  [[1, 1.0]]
+
+Palavra:  nascer
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527]]
+
+Palavra:  nesse
+Valor:  [[1, 5.422300833652588], [3, 6.066596334017831], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  nova
+Valor:  [[1, 5.422300833652588], [4, 5.703472383560009], [5, 5.435302314253307]]
+
+Palavra:  novamente
+Valor:  [[1, 6.656411496418071], [2, 7.283230857601693], [2, 7.283230857601693], [3, 7.600287343970861], [4, 7.068320371811663], [5, 6.675458321228254]]
+
+Palavra:  olhar
+Valor:  [[1, 1.0]]
+
+Palavra:  ovo
+Valor:  [[1, 1.0], [1, 1.0], [1, 1.0]]
+
+Palavra:  ovos
+Valor:  [[1, 1.0]]
+
+Palavra:  partir
+Valor:  [[1, 1.0]]
+
+Palavra:  partiu
+Valor:  [[1, 1.0]]
+
+Palavra:  passado
+Valor:  [[1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  passando
+Valor:  [[1, 1.0]]
+
+Palavra:  passou
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  pata
+Valor:  [[1, 1.0], [1, 1.0], [1, 1.0]]
+
+Palavra:  patinho
+Valor:  [[1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0], [1, 1.0]]
+
+Palavra:  patinhos
+Valor:  [[1, 1.0]]
+
+Palavra:  pato
+Valor:  [[1, 1.0], [1, 1.0]]
+
+Palavra:  pensando
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527]]
+
+Palavra:  perceberam
+Valor:  [[1, 1.0]]
+
+Palavra:  perto
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [2, 4.341164576704211], [2, 4.341164576704211]]
+
+Palavra:  peça
+Valor:  [[1, 1.0]]
+
+Palavra:  pregou
+Valor:  [[1, 1.0]]
+
+Palavra:  quebrar
+Valor:  [[1, 1.0]]
+
+Palavra:  reflexo
+Valor:  [[1, 1.0]]
+
+Palavra:  resolveu
+Valor:  [[1, 5.422300833652588], [1, 5.422300833652588], [3, 6.066596334017831], [5, 5.435302314253307]]
+
+Palavra:  sair
+Valor:  [[1, 1.0]]
+
+Palavra:  saiu
+Valor:  [[1, 4.071208171695885], [5, 4.0794111926473615]]
+
+Palavra:  satisfeita
+Valor:  [[1, 1.0]]
+
+Palavra:  ser
+Valor:  [[1, 5.422300833652588], [2, 5.850171612420276], [3, 6.066596334017831]]
+
+Palavra:  sozinho
+Valor:  [[1, 4.071208171695885], [3, 4.477713372968527]]
+
+Palavra:  temos
+Valor:  [[1, 1.0]]
+
+Palavra:  tempo
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  triste
+Valor:  [[1, 5.422300833652588], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  vejam
+Valor:  [[1, 1.0]]
+
+Palavra:  verdade
+Valor:  [[1, 5.422300833652588], [2, 5.850171612420276], [3, 6.066596334017831]]
+
+Palavra:  verão
+Valor:  [[1, 1.0]]
+
+Palavra:  visitante
+Valor:  [[1, 1.0]]
+
+Palavra:  viu
+Valor:  [[1, 4.071208171695885], [1, 4.071208171695885], [1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  viver
+Valor:  [[1, 4.071208171695885], [4, 4.24860766839028]]
+
+Palavra:  zombavam
+Valor:  [[1, 4.071208171695885], [5, 4.0794111926473615]]
+
+Palavra:  água
+Valor:  [[1, 1.0]]
+
+Palavra:  abandonar
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  acende
+Valor:  [[2, 1.0]]
+
+Palavra:  acender
+Valor:  [[2, 1.0]]
+
+Palavra:  achava
+Valor:  [[2, 1.0]]
+
+Palavra:  acontece
+Valor:  [[2, 1.0]]
+
+Palavra:  alimentar
+Valor:  [[2, 1.0]]
+
+Palavra:  alimentálo
+Valor:  [[2, 1.0]]
+
+Palavra:  aproximam
+Valor:  [[2, 1.0]]
+
+Palavra:  assado
+Valor:  [[2, 1.0]]
+
+Palavra:  assálo
+Valor:  [[2, 1.0]]
+
+Palavra:  bocas
+Valor:  [[2, 1.0]]
+
+Palavra:  bolo
+Valor:  [[2, 1.0]]
+
+Palavra:  brilhantes
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  bruxa
+Valor:  [[2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0]]
+
+Palavra:  caminho
+Valor:  [[2, 5.850171612420276], [2, 5.850171612420276], [3, 6.066596334017831], [5, 5.435302314253307]]
+
+Palavra:  cansados
+Valor:  [[2, 1.0]]
+
+Palavra:  certo
+Valor:  [[2, 1.0]]
+
+Palavra:  chega
+Valor:  [[2, 1.0]]
+
+Palavra:  chão
+Valor:  [[2, 4.341164576704211], [4, 4.24860766839028]]
+
+Palavra:  claro
+Valor:  [[2, 1.0]]
+
+Palavra:  comer
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  comida
+Valor:  [[2, 1.0]]
+
+Palavra:  consegue
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  conseguem
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  conseguiram
+Valor:  [[2, 1.0]]
+
+Palavra:  consigo
+Valor:  [[2, 1.0]]
+
+Palavra:  convencer
+Valor:  [[2, 1.0]]
+
+Palavra:  convenceu
+Valor:  [[2, 1.0]]
+
+Palavra:  convida
+Valor:  [[2, 1.0]]
+
+Palavra:  correndo
+Valor:  [[2, 4.341164576704211], [5, 4.0794111926473615]]
+
+Palavra:  cortar
+Valor:  [[2, 1.0]]
+
+Palavra:  deixa
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  deixando
+Valor:  [[2, 1.0]]
+
+Palavra:  deixar
+Valor:  [[2, 1.0]]
+
+Palavra:  deixou
+Valor:  [[2, 4.341164576704211], [5, 4.0794111926473615]]
+
+Palavra:  dentro
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  deparam
+Valor:  [[2, 1.0]]
+
+Palavra:  descansavam
+Valor:  [[2, 1.0]]
+
+Palavra:  devoradas
+Valor:  [[2, 1.0]]
+
+Palavra:  dias
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  difíceis
+Valor:  [[2, 1.0]]
+
+Palavra:  direção
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  dizendo
+Valor:  [[2, 4.341164576704211], [5, 4.0794111926473615]]
+
+Palavra:  doces
+Valor:  [[2, 1.0]]
+
+Palavra:  dois
+Valor:  [[2, 6.721423125572017], [2, 6.721423125572017], [2, 6.721423125572017], [3, 6.9945207181006515], [3, 6.9945207181006515], [4, 6.536309308944156], [5, 6.19791635745832]]
+
+Palavra:  duas
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [5, 4.0794111926473615]]
+
+Palavra:  durante
+Valor:  [[2, 4.341164576704211], [4, 4.24860766839028]]
+
+Palavra:  empurra
+Valor:  [[2, 1.0]]
+
+Palavra:  encontrado
+Valor:  [[2, 1.0]]
+
+Palavra:  enganar
+Valor:  [[2, 1.0]]
+
+Palavra:  entrando
+Valor:  [[2, 1.0]]
+
+Palavra:  entretanto
+Valor:  [[2, 5.850171612420276], [2, 5.850171612420276], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  escutado
+Valor:  [[2, 1.0]]
+
+Palavra:  esperando
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  família
+Valor:  [[2, 1.0]]
+
+Palavra:  fantástica
+Valor:  [[2, 1.0]]
+
+Palavra:  fecha
+Valor:  [[2, 1.0]]
+
+Palavra:  feliz
+Valor:  [[2, 1.0]]
+
+Palavra:  ficam
+Valor:  [[2, 5.850171612420276], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  ficar
+Valor:  [[2, 1.0]]
+
+Palavra:  filhos
+Valor:  [[2, 1.0]]
+
+Palavra:  fizeram
+Valor:  [[2, 1.0]]
+
+Palavra:  floresta
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [4, 4.24860766839028], [4, 4.24860766839028], [4, 4.24860766839028], [4, 4.24860766839028]]
+
+Palavra:  fogueira
+Valor:  [[2, 1.0]]
+
+Palavra:  fome
+Valor:  [[2, 1.0]]
+
+Palavra:  forno
+Valor:  [[2, 1.0], [2, 1.0], [2, 1.0]]
+
+Palavra:  gaiola
+Valor:  [[2, 1.0]]
+
+Palavra:  gordo
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  guloseimas
+Valor:  [[2, 1.0]]
+
+Palavra:  humilde
+Valor:  [[2, 1.0]]
+
+Palavra:  ideia
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  invés
+Valor:  [[2, 1.0]]
+
+Palavra:  irmã
+Valor:  [[2, 1.0]]
+
+Palavra:  irmão
+Valor:  [[2, 1.0]]
+
+Palavra:  joão
+Valor:  [[2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0]]
+
+Palavra:  lenha
+Valor:  [[2, 1.0]]
+
+Palavra:  levado
+Valor:  [[2, 1.0]]
+
+Palavra:  libertar
+Valor:  [[2, 1.0]]
+
+Palavra:  longe
+Valor:  [[2, 1.0]]
+
+Palavra:  madrasta
+Valor:  [[2, 5.850171612420276], [2, 5.850171612420276], [2, 5.850171612420276], [2, 5.850171612420276], [4, 5.703472383560009], [4, 5.703472383560009], [4, 5.703472383560009], [4, 5.703472383560009], [5, 5.435302314253307], [5, 5.435302314253307]]
+
+Palavra:  maldades
+Valor:  [[2, 1.0]]
+
+Palavra:  manda
+Valor:  [[2, 4.341164576704211], [5, 4.0794111926473615]]
+
+Palavra:  maneira
+Valor:  [[2, 1.0]]
+
+Palavra:  marcar
+Valor:  [[2, 1.0]]
+
+Palavra:  maria
+Valor:  [[2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0], [2, 1.0]]
+
+Palavra:  marido
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  mata
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  meio
+Valor:  [[2, 5.850171612420276], [3, 6.066596334017831], [4, 5.703472383560009]]
+
+Palavra:  menina
+Valor:  [[2, 1.0]]
+
+Palavra:  menino
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527], [3, 4.477713372968527], [3, 4.477713372968527], [3, 4.477713372968527], [3, 4.477713372968527], [3, 4.477713372968527]]
+
+Palavra:  menos
+Valor:  [[2, 1.0]]
+
+Palavra:  migalhas
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  miséria
+Valor:  [[2, 1.0]]
+
+Palavra:  mulher
+Valor:  [[2, 5.850171612420276], [2, 5.850171612420276], [4, 5.703472383560009], [5, 5.435302314253307]]
+
+Palavra:  má
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [4, 4.24860766839028], [4, 4.24860766839028]]
+
+Palavra:  oferece
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  pai
+Valor:  [[2, 6.721423125572017], [2, 6.721423125572017], [2, 6.721423125572017], [2, 6.721423125572017], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [3, 6.9945207181006515], [4, 6.536309308944156], [5, 6.19791635745832], [5, 6.19791635745832]]
+
+Palavra:  partem
+Valor:  [[2, 1.0]]
+
+Palavra:  pedaço
+Valor:  [[2, 1.0]]
+
+Palavra:  pedras
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  pedrinhas
+Valor:  [[2, 1.0], [2, 1.0], [2, 1.0]]
+
+Palavra:  pegar
+Valor:  [[2, 1.0]]
+
+Palavra:  pegasse
+Valor:  [[2, 1.0]]
+
+Palavra:  perambulam
+Valor:  [[2, 1.0]]
+
+Palavra:  permitindo
+Valor:  [[2, 1.0]]
+
+Palavra:  perverso
+Valor:  [[2, 1.0]]
+
+Palavra:  plano
+Valor:  [[2, 1.0]]
+
+Palavra:  porta
+Valor:  [[2, 1.0]]
+
+Palavra:  possessa
+Valor:  [[2, 1.0]]
+
+Palavra:  pra
+Valor:  [[2, 1.0]]
+
+Palavra:  precisaram
+Valor:  [[2, 1.0]]
+
+Palavra:  prender
+Valor:  [[2, 1.0]]
+
+Palavra:  preparado
+Valor:  [[2, 1.0]]
+
+Palavra:  pássaros
+Valor:  [[2, 1.0]]
+
+Palavra:  pão
+Valor:  [[2, 1.0]]
+
+Palavra:  qualquer
+Valor:  [[2, 1.0]]
+
+Palavra:  quarto
+Valor:  [[2, 1.0]]
+
+Palavra:  rapidamente
+Valor:  [[2, 1.0]]
+
+Palavra:  recebe
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  recebido
+Valor:  [[2, 1.0]]
+
+Palavra:  recursos
+Valor:  [[2, 1.0]]
+
+Palavra:  resistem
+Valor:  [[2, 1.0]]
+
+Palavra:  resolve
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  retornar
+Valor:  [[2, 1.0]]
+
+Palavra:  riquezas
+Valor:  [[2, 1.0]]
+
+Palavra:  saciados
+Valor:  [[2, 1.0]]
+
+Palavra:  saem
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  sai
+Valor:  [[2, 1.0]]
+
+Palavra:  seguindo
+Valor:  [[2, 1.0]]
+
+Palavra:  seguinte
+Valor:  [[2, 1.0], [2, 1.0]]
+
+Palavra:  senhora
+Valor:  [[2, 4.341164576704211], [4, 4.24860766839028]]
+
+Palavra:  seriam
+Valor:  [[2, 1.0]]
+
+Palavra:  suficiente
+Valor:  [[2, 1.0]]
+
+Palavra:  tampa
+Valor:  [[2, 1.0]]
+
+Palavra:  tiveram
+Valor:  [[2, 1.0]]
+
+Palavra:  trancou
+Valor:  [[2, 1.0]]
+
+Palavra:  tristes
+Valor:  [[2, 4.341164576704211], [4, 4.24860766839028]]
+
+Palavra:  vagar
+Valor:  [[2, 1.0]]
+
+Palavra:  velha
+Valor:  [[2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [2, 4.341164576704211], [4, 4.24860766839028]]
+
+Palavra:  viviam
+Valor:  [[2, 1.0]]
+
+Palavra:  voltar
+Valor:  [[2, 5.850171612420276], [2, 5.850171612420276], [3, 6.066596334017831], [3, 6.066596334017831], [3, 6.066596334017831], [5, 5.435302314253307]]
+
+Palavra:  voltaria
+Valor:  [[2, 1.0]]
+
+Palavra:  vários
+Valor:  [[2, 4.341164576704211], [3, 4.477713372968527]]
+
+Palavra:  vão
+Valor:  [[2, 1.0]]
+
+Palavra:  5
+Valor:  [[3, 1.0]]
+
+Palavra:  abraçaram
+Valor:  [[3, 1.0]]
+
+Palavra:  acontecia
+Valor:  [[3, 1.0]]
+
+Palavra:  adormece
+Valor:  [[3, 1.0]]
+
+Palavra:  ajuda
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  ajudaria
+Valor:  [[3, 1.0]]
+
+Palavra:  alegra
+Valor:  [[3, 1.0]]
+
+Palavra:  alegria
+Valor:  [[3, 1.0]]
+
+Palavra:  aparece
+Valor:  [[3, 1.0]]
+
+Palavra:  apuros
+Valor:  [[3, 1.0]]
+
+Palavra:  aqui
+Valor:  [[3, 1.0]]
+
+Palavra:  atiram
+Valor:  [[3, 1.0]]
+
+Palavra:  aula
+Valor:  [[3, 1.0]]
+
+Palavra:  avista
+Valor:  [[3, 1.0]]
+
+Palavra:  azul
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  baleia
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  barriga
+Valor:  [[3, 1.0]]
+
+Palavra:  belo
+Valor:  [[3, 4.477713372968527], [5, 4.0794111926473615], [5, 4.0794111926473615]]
+
+Palavra:  bom
+Valor:  [[3, 1.0]]
+
+Palavra:  boneco
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  bravo
+Valor:  [[3, 1.0]]
+
+Palavra:  burrinho
+Valor:  [[3, 1.0]]
+
+Palavra:  burro
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  cai
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  caminhava
+Valor:  [[3, 1.0]]
+
+Palavra:  carne
+Valor:  [[3, 1.0]]
+
+Palavra:  carpinteiro
+Valor:  [[3, 1.0]]
+
+Palavra:  chamava
+Valor:  [[3, 1.0]]
+
+Palavra:  chegando
+Valor:  [[3, 4.477713372968527], [5, 4.0794111926473615]]
+
+Palavra:  circo
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  começa
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  começou
+Valor:  [[3, 1.0]]
+
+Palavra:  compartilhar
+Valor:  [[3, 1.0]]
+
+Palavra:  comporte
+Valor:  [[3, 1.0]]
+
+Palavra:  confuso
+Valor:  [[3, 1.0]]
+
+Palavra:  contado
+Valor:  [[3, 1.0]]
+
+Palavra:  contentes
+Valor:  [[3, 1.0]]
+
+Palavra:  convencem
+Valor:  [[3, 1.0]]
+
+Palavra:  converte
+Valor:  [[3, 1.0]]
+
+Palavra:  crescer
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  decide
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  depara
+Valor:  [[3, 1.0]]
+
+Palavra:  despertou
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  destreza
+Valor:  [[3, 1.0]]
+
+Palavra:  dinheiro
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  diversões
+Valor:  [[3, 1.0]]
+
+Palavra:  donos
+Valor:  [[3, 1.0]]
+
+Palavra:  dá
+Valor:  [[3, 4.477713372968527], [3, 4.477713372968527], [4, 4.24860766839028], [4, 4.24860766839028]]
+
+Palavra:  encantados
+Valor:  [[3, 1.0]]
+
+Palavra:  encontra
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  encontrase
+Valor:  [[3, 1.0]]
+
+Palavra:  engolido
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  enterra
+Valor:  [[3, 1.0]]
+
+Palavra:  enterradas
+Valor:  [[3, 1.0]]
+
+Palavra:  enterrar
+Valor:  [[3, 1.0]]
+
+Palavra:  enterre
+Valor:  [[3, 1.0]]
+
+Palavra:  entra
+Valor:  [[3, 1.0]]
+
+Palavra:  envia
+Valor:  [[3, 1.0]]
+
+Palavra:  escola
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  exaustivamente
+Valor:  [[3, 1.0]]
+
+Palavra:  fada
+Valor:  [[3, 4.477713372968527], [3, 4.477713372968527], [3, 4.477713372968527], [5, 4.0794111926473615]]
+
+Palavra:  falar
+Valor:  [[3, 1.0]]
+
+Palavra:  faminta
+Valor:  [[3, 1.0]]
+
+Palavra:  faria
+Valor:  [[3, 1.0]]
+
+Palavra:  fica
+Valor:  [[3, 1.0]]
+
+Palavra:  ficaria
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  ficará
+Valor:  [[3, 1.0]]
+
+Palavra:  fogem
+Valor:  [[3, 1.0]]
+
+Palavra:  formato
+Valor:  [[3, 1.0]]
+
+Palavra:  fracos
+Valor:  [[3, 1.0]]
+
+Palavra:  gepeto
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  gostaria
+Valor:  [[3, 1.0]]
+
+Palavra:  graveto
+Valor:  [[3, 1.0]]
+
+Palavra:  homens
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  hora
+Valor:  [[3, 1.0]]
+
+Palavra:  imediatamente
+Valor:  [[3, 1.0]]
+
+Palavra:  incrível
+Valor:  [[3, 1.0]]
+
+Palavra:  instrução
+Valor:  [[3, 1.0]]
+
+Palavra:  intencionados
+Valor:  [[3, 1.0]]
+
+Palavra:  ir
+Valor:  [[3, 4.477713372968527], [5, 4.0794111926473615], [5, 4.0794111926473615]]
+
+Palavra:  jovem
+Valor:  [[3, 6.066596334017831], [4, 5.703472383560009], [4, 5.703472383560009], [4, 5.703472383560009], [4, 5.703472383560009], [5, 5.435302314253307], [5, 5.435302314253307]]
+
+Palavra:  junto
+Valor:  [[3, 1.0]]
+
+Palavra:  linda
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  local
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  madeira
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  mal
+Valor:  [[3, 4.477713372968527], [3, 4.477713372968527], [5, 4.0794111926473615]]
+
+Palavra:  mar
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  maravilhado
+Valor:  [[3, 1.0]]
+
+Palavra:  marionete
+Valor:  [[3, 1.0]]
+
+Palavra:  marionetes
+Valor:  [[3, 1.0]]
+
+Palavra:  mentir
+Valor:  [[3, 1.0]]
+
+Palavra:  mentira
+Valor:  [[3, 1.0]]
+
+Palavra:  moedas
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  moça
+Valor:  [[3, 6.066596334017831], [4, 5.703472383560009], [4, 5.703472383560009], [4, 5.703472383560009], [5, 5.435302314253307], [5, 5.435302314253307]]
+
+Palavra:  nariz
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  nascerá
+Valor:  [[3, 1.0]]
+
+Palavra:  nome
+Valor:  [[3, 1.0]]
+
+Palavra:  normal
+Valor:  [[3, 1.0]]
+
+Palavra:  novo
+Valor:  [[3, 1.0]]
+
+Palavra:  onde
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  osso
+Valor:  [[3, 1.0]]
+
+Palavra:  ouro
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  parque
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  participar
+Valor:  [[3, 1.0]]
+
+Palavra:  passa
+Valor:  [[3, 1.0]]
+
+Palavra:  passados
+Valor:  [[3, 1.0]]
+
+Palavra:  passava
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  pede
+Valor:  [[3, 1.0]]
+
+Palavra:  pegam
+Valor:  [[3, 1.0]]
+
+Palavra:  peixe
+Valor:  [[3, 1.0]]
+
+Palavra:  pensa
+Valor:  [[3, 1.0]]
+
+Palavra:  pergunta
+Valor:  [[3, 1.0]]
+
+Palavra:  pessoas
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  pinoquio
+Valor:  [[3, 1.0]]
+
+Palavra:  pinóquio
+Valor:  [[3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0], [3, 1.0]]
+
+Palavra:  praça
+Valor:  [[3, 1.0]]
+
+Palavra:  precisará
+Valor:  [[3, 1.0]]
+
+Palavra:  preocupado
+Valor:  [[3, 1.0]]
+
+Palavra:  procura
+Valor:  [[3, 1.0]]
+
+Palavra:  profundo
+Valor:  [[3, 1.0]]
+
+Palavra:  promete
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  pudesse
+Valor:  [[3, 4.477713372968527], [5, 4.0794111926473615]]
+
+Palavra:  quase
+Valor:  [[3, 4.477713372968527], [5, 4.0794111926473615]]
+
+Palavra:  real
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  recomenda
+Valor:  [[3, 1.0]]
+
+Palavra:  repara
+Valor:  [[3, 1.0]]
+
+Palavra:  resiste
+Valor:  [[3, 1.0]]
+
+Palavra:  responde
+Valor:  [[3, 1.0]]
+
+Palavra:  rico
+Valor:  [[3, 1.0]]
+
+Palavra:  saber
+Valor:  [[3, 1.0]]
+
+Palavra:  satisfeito
+Valor:  [[3, 1.0]]
+
+Palavra:  seria
+Valor:  [[3, 1.0]]
+
+Palavra:  servia
+Valor:  [[3, 1.0]]
+
+Palavra:  solitário
+Valor:  [[3, 1.0]]
+
+Palavra:  sonho
+Valor:  [[3, 1.0]]
+
+Palavra:  sono
+Valor:  [[3, 1.0]]
+
+Palavra:  sorvetes
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  sumido
+Valor:  [[3, 1.0]]
+
+Palavra:  surpresa
+Valor:  [[3, 1.0]]
+
+Palavra:  tantos
+Valor:  [[3, 1.0]]
+
+Palavra:  teatro
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  terminar
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  terreno
+Valor:  [[3, 1.0]]
+
+Palavra:  tira
+Valor:  [[3, 1.0]]
+
+Palavra:  toma
+Valor:  [[3, 1.0]]
+
+Palavra:  tomou
+Valor:  [[3, 1.0]]
+
+Palavra:  trabalha
+Valor:  [[3, 1.0]]
+
+Palavra:  trabalhar
+Valor:  [[3, 1.0]]
+
+Palavra:  trabalho
+Valor:  [[3, 1.0]]
+
+Palavra:  transformaria
+Valor:  [[3, 1.0]]
+
+Palavra:  transformase
+Valor:  [[3, 1.0]]
+
+Palavra:  tratado
+Valor:  [[3, 1.0]]
+
+Palavra:  vai
+Valor:  [[3, 4.477713372968527], [4, 4.24860766839028]]
+
+Palavra:  vendem
+Valor:  [[3, 1.0]]
+
+Palavra:  vestido
+Valor:  [[3, 1.0]]
+
+Palavra:  vida
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  volta
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  volte
+Valor:  [[3, 1.0]]
+
+Palavra:  árvore
+Valor:  [[3, 1.0], [3, 1.0]]
+
+Palavra:  admirar
+Valor:  [[4, 1.0]]
+
+Palavra:  adormeceu
+Valor:  [[4, 1.0]]
+
+Palavra:  adormecida
+Valor:  [[4, 1.0]]
+
+Palavra:  ajudála
+Valor:  [[4, 1.0]]
+
+Palavra:  alva
+Valor:  [[4, 1.0]]
+
+Palavra:  amizade
+Valor:  [[4, 1.0]]
+
+Palavra:  anões
+Valor:  [[4, 1.0], [4, 1.0], [4, 1.0]]
+
+Palavra:  apaixona
+Valor:  [[4, 1.0]]
+
+Palavra:  avistam
+Valor:  [[4, 1.0]]
+
+Palavra:  beijo
+Valor:  [[4, 1.0]]
+
+Palavra:  bela
+Valor:  [[4, 4.24860766839028], [4, 4.24860766839028], [4, 4.24860766839028], [4, 4.24860766839028], [4, 4.24860766839028], [5, 4.0794111926473615], [5, 4.0794111926473615], [5, 4.0794111926473615]]
+
+Palavra:  beleza
+Valor:  [[4, 1.0], [4, 1.0]]
+
+Palavra:  boca
+Valor:  [[4, 1.0]]
+
+Palavra:  bonita
+Valor:  [[4, 4.24860766839028], [4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  branca
+Valor:  [[4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0]]
+
+Palavra:  branco
+Valor:  [[4, 1.0]]
+
+Palavra:  cabelos
+Valor:  [[4, 1.0]]
+
+Palavra:  caixa
+Valor:  [[4, 1.0]]
+
+Palavra:  camas
+Valor:  [[4, 1.0]]
+
+Palavra:  caminhar
+Valor:  [[4, 1.0]]
+
+Palavra:  caminhas
+Valor:  [[4, 1.0]]
+
+Palavra:  camponesa
+Valor:  [[4, 1.0]]
+
+Palavra:  cansada
+Valor:  [[4, 1.0]]
+
+Palavra:  casam
+Valor:  [[4, 1.0]]
+
+Palavra:  casinha
+Valor:  [[4, 1.0]]
+
+Palavra:  casou
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  cavalo
+Valor:  [[4, 1.0]]
+
+Palavra:  caída
+Valor:  [[4, 1.0]]
+
+Palavra:  colocam
+Valor:  [[4, 1.0]]
+
+Palavra:  conseguido
+Valor:  [[4, 1.0]]
+
+Palavra:  contou
+Valor:  [[4, 1.0]]
+
+Palavra:  contém
+Valor:  [[4, 1.0]]
+
+Palavra:  coração
+Valor:  [[4, 1.0], [4, 1.0]]
+
+Palavra:  crescia
+Valor:  [[4, 1.0]]
+
+Palavra:  deparou
+Valor:  [[4, 1.0]]
+
+Palavra:  desfalecida
+Valor:  [[4, 1.0]]
+
+Palavra:  desperta
+Valor:  [[4, 1.0]]
+
+Palavra:  disfarçar
+Valor:  [[4, 1.0]]
+
+Palavra:  dormindo
+Valor:  [[4, 1.0]]
+
+Palavra:  encanto
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  encontraram
+Valor:  [[4, 1.0]]
+
+Palavra:  enteada
+Valor:  [[4, 1.0]]
+
+Palavra:  entrou
+Valor:  [[4, 1.0]]
+
+Palavra:  envenenada
+Valor:  [[4, 1.0]]
+
+Palavra:  espelho
+Valor:  [[4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0]]
+
+Palavra:  esposa
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  existe
+Valor:  [[4, 1.0]]
+
+Palavra:  felizes
+Valor:  [[4, 4.24860766839028], [4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  fez
+Valor:  [[4, 1.0]]
+
+Palavra:  foge
+Valor:  [[4, 1.0]]
+
+Palavra:  formosa
+Valor:  [[4, 1.0]]
+
+Palavra:  fugisse
+Valor:  [[4, 1.0]]
+
+Palavra:  furiosa
+Valor:  [[4, 1.0]]
+
+Palavra:  história
+Valor:  [[4, 1.0]]
+
+Palavra:  lar
+Valor:  [[4, 1.0]]
+
+Palavra:  mandou
+Valor:  [[4, 1.0]]
+
+Palavra:  manhãs
+Valor:  [[4, 1.0]]
+
+Palavra:  matála
+Valor:  [[4, 1.0]]
+
+Palavra:  maçã
+Valor:  [[4, 1.0]]
+
+Palavra:  mina
+Valor:  [[4, 1.0]]
+
+Palavra:  morando
+Valor:  [[4, 1.0]]
+
+Palavra:  mordida
+Valor:  [[4, 1.0]]
+
+Palavra:  morrido
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  morte
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  mágico
+Valor:  [[4, 1.0]]
+
+Palavra:  mãe
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  negros
+Valor:  [[4, 1.0]]
+
+Palavra:  neve
+Valor:  [[4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0], [4, 1.0]]
+
+Palavra:  noite
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  oferecer
+Valor:  [[4, 1.0]]
+
+Palavra:  ordenou
+Valor:  [[4, 1.0]]
+
+Palavra:  pele
+Valor:  [[4, 1.0]]
+
+Palavra:  pena
+Valor:  [[4, 1.0]]
+
+Palavra:  perguntar
+Valor:  [[4, 1.0], [4, 1.0]]
+
+Palavra:  perguntava
+Valor:  [[4, 1.0]]
+
+Palavra:  poderem
+Valor:  [[4, 1.0]]
+
+Palavra:  possuía
+Valor:  [[4, 1.0]]
+
+Palavra:  primeira
+Valor:  [[4, 1.0]]
+
+Palavra:  princesinha
+Valor:  [[4, 1.0]]
+
+Palavra:  prometeram
+Valor:  [[4, 1.0]]
+
+Palavra:  prova
+Valor:  [[4, 1.0]]
+
+Palavra:  príncipe
+Valor:  [[4, 4.24860766839028], [4, 4.24860766839028], [5, 4.0794111926473615], [5, 4.0794111926473615], [5, 4.0794111926473615], [5, 4.0794111926473615]]
+
+Palavra:  queria
+Valor:  [[4, 1.0]]
+
+Palavra:  rainha
+Valor:  [[4, 1.0]]
+
+Palavra:  realmente
+Valor:  [[4, 1.0]]
+
+Palavra:  recebeu
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  rei
+Valor:  [[4, 4.24860766839028], [4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  respondia
+Valor:  [[4, 1.0]]
+
+Palavra:  resposta
+Valor:  [[4, 1.0]]
+
+Palavra:  retornarem
+Valor:  [[4, 1.0]]
+
+Palavra:  sangue
+Valor:  [[4, 1.0]]
+
+Palavra:  sequestrar
+Valor:  [[4, 1.0]]
+
+Palavra:  servo
+Valor:  [[4, 1.0]]
+
+Palavra:  servos
+Valor:  [[4, 4.24860766839028], [5, 4.0794111926473615]]
+
+Palavra:  sete
+Valor:  [[4, 1.0], [4, 1.0]]
+
+Palavra:  simpática
+Valor:  [[4, 1.0]]
+
+Palavra:  surge
+Valor:  [[4, 1.0]]
+
+Palavra:  tarefas
+Valor:  [[4, 1.0]]
+
+Palavra:  tornava
+Valor:  [[4, 1.0]]
+
+Palavra:  trabalhavam
+Valor:  [[4, 1.0]]
+
+Palavra:  trazendo
+Valor:  [[4, 1.0]]
+
+Palavra:  vaidosa
+Valor:  [[4, 1.0]]
+
+Palavra:  veado
+Valor:  [[4, 1.0]]
+
+Palavra:  vermelha
+Valor:  [[4, 1.0]]
+
+Palavra:  vidro
+Valor:  [[4, 1.0]]
+
+Palavra:  viva
+Valor:  [[4, 1.0]]
+
+Palavra:  vivem
+Valor:  [[4, 1.0]]
+
+Palavra:  voltarem
+Valor:  [[4, 1.0]]
+
+Palavra:  abalado
+Valor:  [[5, 1.0]]
+
+Palavra:  abóbora
+Valor:  [[5, 1.0]]
+
+Palavra:  acabou
+Valor:  [[5, 1.0]]
+
+Palavra:  além
+Valor:  [[5, 1.0]]
+
+Palavra:  amada
+Valor:  [[5, 1.0]]
+
+Palavra:  animou
+Valor:  [[5, 1.0]]
+
+Palavra:  anunciou
+Valor:  [[5, 1.0]]
+
+Palavra:  apaixonando
+Valor:  [[5, 1.0]]
+
+Palavra:  apressaram
+Valor:  [[5, 1.0]]
+
+Palavra:  atenção
+Valor:  [[5, 1.0]]
+
+Palavra:  azar
+Valor:  [[5, 1.0]]
+
+Palavra:  baile
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  boa
+Valor:  [[5, 1.0]]
+
+Palavra:  carruagem
+Valor:  [[5, 1.0]]
+
+Palavra:  casamento
+Valor:  [[5, 1.0]]
+
+Palavra:  casar
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  causarem
+Valor:  [[5, 1.0]]
+
+Palavra:  chamou
+Valor:  [[5, 1.0]]
+
+Palavra:  chegaram
+Valor:  [[5, 1.0]]
+
+Palavra:  cinderela
+Valor:  [[5, 1.0], [5, 1.0], [5, 1.0], [5, 1.0], [5, 1.0], [5, 1.0], [5, 1.0], [5, 1.0]]
+
+Palavra:  cocheiro
+Valor:  [[5, 1.0]]
+
+Palavra:  condição
+Valor:  [[5, 1.0]]
+
+Palavra:  cristal
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  dançou
+Valor:  [[5, 1.0]]
+
+Palavra:  daquela
+Valor:  [[5, 1.0]]
+
+Palavra:  daria
+Valor:  [[5, 1.0]]
+
+Palavra:  descobrir
+Valor:  [[5, 1.0]]
+
+Palavra:  descuido
+Valor:  [[5, 1.0]]
+
+Palavra:  desfeito
+Valor:  [[5, 1.0]]
+
+Palavra:  dona
+Valor:  [[5, 1.0]]
+
+Palavra:  dormir
+Valor:  [[5, 1.0]]
+
+Palavra:  eis
+Valor:  [[5, 1.0]]
+
+Palavra:  encaixou
+Valor:  [[5, 1.0]]
+
+Palavra:  encantado
+Valor:  [[5, 1.0]]
+
+Palavra:  escolhesse
+Valor:  [[5, 1.0]]
+
+Palavra:  estaria
+Valor:  [[5, 1.0]]
+
+Palavra:  experimentem
+Valor:  [[5, 1.0]]
+
+Palavra:  experimentou
+Valor:  [[5, 1.0]]
+
+Palavra:  fadamadrinha
+Valor:  [[5, 1.0]]
+
+Palavra:  farrapos
+Valor:  [[5, 1.0]]
+
+Palavra:  festa
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  filhas
+Valor:  [[5, 1.0]]
+
+Palavra:  impressão
+Valor:  [[5, 1.0]]
+
+Palavra:  inesperada
+Valor:  [[5, 1.0]]
+
+Palavra:  irem
+Valor:  [[5, 1.0]]
+
+Palavra:  irmãs
+Valor:  [[5, 1.0], [5, 1.0], [5, 1.0]]
+
+Palavra:  lamentandose
+Valor:  [[5, 1.0]]
+
+Palavra:  lindos
+Valor:  [[5, 1.0]]
+
+Palavra:  maravilhosas
+Valor:  [[5, 1.0]]
+
+Palavra:  meianoite
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  moças
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  mágica
+Valor:  [[5, 1.0]]
+
+Palavra:  novas
+Valor:  [[5, 1.0]]
+
+Palavra:  obrigála
+Valor:  [[5, 1.0]]
+
+Palavra:  passaram
+Valor:  [[5, 1.0]]
+
+Palavra:  passe
+Valor:  [[5, 1.0]]
+
+Palavra:  patriarca
+Valor:  [[5, 1.0]]
+
+Palavra:  perceber
+Valor:  [[5, 1.0]]
+
+Palavra:  perfeitamente
+Valor:  [[5, 1.0]]
+
+Palavra:  postos
+Valor:  [[5, 1.0]]
+
+Palavra:  proibiu
+Valor:  [[5, 1.0]]
+
+Palavra:  provaram
+Valor:  [[5, 1.0]]
+
+Palavra:  provavam
+Valor:  [[5, 1.0]]
+
+Palavra:  província
+Valor:  [[5, 1.0]]
+
+Palavra:  pé
+Valor:  [[5, 1.0]]
+
+Palavra:  ratinho
+Valor:  [[5, 1.0]]
+
+Palavra:  repente
+Valor:  [[5, 1.0]]
+
+Palavra:  roupa
+Valor:  [[5, 1.0]]
+
+Palavra:  sapatinho
+Valor:  [[5, 1.0]]
+
+Palavra:  sapato
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  sapatos
+Valor:  [[5, 1.0]]
+
+Palavra:  serviu
+Valor:  [[5, 1.0]]
+
+Palavra:  serviço
+Valor:  [[5, 1.0]]
+
+Palavra:  surgiu
+Valor:  [[5, 1.0]]
+
+Palavra:  sótão
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  transformou
+Valor:  [[5, 1.0]]
+
+Palavra:  tratavam
+Valor:  [[5, 1.0]]
+
+Palavra:  três
+Valor:  [[5, 1.0]]
+
+Palavra:  vestidos
+Valor:  [[5, 1.0], [5, 1.0]]
+
+Palavra:  vestimentas
+Valor:  [[5, 1.0]]
+
+Palavra:  vestirse
+Valor:  [[5, 1.0]]
+
+Palavra:  vestiu
+Valor:  [[5, 1.0]]
+
+Palavra:  visita
+Valor:  [[5, 1.0]]
+
+Palavra:  viveram
+Valor:  [[5, 1.0]]

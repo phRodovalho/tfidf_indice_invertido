@@ -11,7 +11,7 @@ CODIGO FONTE - Estrutura de busca com modelo vetorial tf-idf
 import os
 import pprint
 import math
-
+import csv
 global tf
 global df
 global tfidf
@@ -46,12 +46,12 @@ def main():
     criar_indice_invertido(document04, 4)
     criar_indice_invertido(document05, 5)
 
-    peso_idf(document01, 1)
-    peso_idf(document02, 2)
-    peso_idf(document03, 3)
-    peso_idf(document04, 4)
-    peso_idf(document05, 5)
-    pprint.pprint(tfidf)
+    # calculando ponderação td-idf de cada termo dos documentos
+    peso_tf_idf(document01, 1)
+    peso_tf_idf(document02, 2)
+    peso_tf_idf(document03, 3)
+    peso_tf_idf(document04, 4)
+    peso_tf_idf(document05, 5)
 
     pesquisa = str(input("Informe os termos da pesquisa:"))
     # convertendo para minusculo e separando os termos
@@ -60,24 +60,25 @@ def main():
     consulta_modelo_vetorial(pesquisa)
 
 
-def peso_idf(document, num_d):
+def peso_tf_idf(document, num_d):
     numTermsDocument = len(document)
     for t in document:
         # numero de arquivos que termo aparece
         numFilesAppear = len(set(dict_terms.get(t)))
         idff = (1 + math.log(numFilesAppear) *
                 math.log(numTermsDocument/numFilesAppear))
-        tfidf[t] = {idff, num_d}
+        tfidf.setdefault(t, [])
+        tfidf[t].append([num_d, idff])
 
 
 def consulta_modelo_vetorial(pesquisa):
     docs_pesquisa = []
     for p in pesquisa:  # percorrendo os termos de pesquisa fornecidos pelo usuário
         if dict_terms.get(p) is not None:  # se o termo existir
-            #print(p + " : " + dict_terms.get(p))
+            # recuperando o numero dos documentos que possuem o termo
             for i in dict_terms.get(p):
-                # inserindo o numero dos documentos de cada termo na lista
                 if i not in docs_pesquisa:
+                    # inserindo o numero dos documentos de cada termo na lista
                     docs_pesquisa.append(i)
 
     if len(docs_pesquisa) == 0:  # caso nenhum termo for encontrado nos termos mapeados, encerra
@@ -86,26 +87,29 @@ def consulta_modelo_vetorial(pesquisa):
 
     sim = []
     dict_pondera = {}
-    for p in pesquisa:
+    for p in pesquisa:  # percorrendo os termos de pesquisa fornecidos pelo usuário
         try:
             sim.append(list(tfidf.get(p)))
         except:
             continue
 
-    for x, y in sim:
-        print("\n", x)
-        print("\n", y)
-        dict_pondera[x] = {y}
+    with open("resultado.txt", "w") as f:
+        print("_________ Ponderacao TF-IDF das palavras pesquisadas _________ \n", file=f)
+        for p in pesquisa:
+            print("\nPalavra: ", p, file=f)
+            print(tfidf.get(p), file=f)
 
-    q = dict_pondera.keys()
-    if(len(dict_pondera) > 1):
-        print("A pesquisa retornou os seguintes documentos: ",
-              q)
-    elif(len(dict_pondera) == 1):
-        print("A pesquisa retornou o seguinte documento: ",
-              q)
-    else:
-        print("A pesquisa não retornou nenhum documento")
+    with open("ponderacaotf-idf.txt", "w") as f:
+        print("_________ Ponderacao TF-IDF de todo corpus _________ \n", file=f)
+        for key, value in tfidf.items():
+            print("\nPalavra: ", key, file=f)
+            print("Valor: ", value, file=f)
+
+#    with open('ponderacaotf-idf.csv', 'w') as csvfile:
+#        fieldnames = list(tfidf.keys())
+#        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#        writer.writeheader()
+#        writer.writerow(tfidf)
 
 
 def criar_indice_invertido(document, num):  # criando indice invertido
@@ -115,12 +119,7 @@ def criar_indice_invertido(document, num):  # criando indice invertido
             dict_terms[d].append(num)
         # se o termo não esta no dict e não é um termo repetido
         if d in dict_terms and num not in dict_terms[d]:
-            # x = str(dict_terms[d])+" "
-            # atualiza a lista de documentos do termo
-            # dict_terms.update({d: x+num})
             dict_terms[d].append(num)
-
-    pprint.pprint(dict_terms)
 
 
 def prepare_doc(file):
